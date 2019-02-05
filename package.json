@@ -1,0 +1,17 @@
+{
+  "name": "simple-express-crud",
+  "version": "0.0.1",
+  "author": "ASP",
+  "description": "CRUD Node.js, MongoDB, Mongoose and Express Framework",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0",
+    "method-override": "^2.3.1",
+    "mongoose": "^4.1.2",
+    "morgan": "^1.5.1"
+  }
+}
